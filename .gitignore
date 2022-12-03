@@ -1,2 +1,5 @@
 **-test.txt
 **-output.txt
+*venv
+
+__pycache__*
